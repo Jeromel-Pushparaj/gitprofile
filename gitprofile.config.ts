@@ -110,14 +110,14 @@ const CONFIG = {
       companyLink: 'https://www.tessolve.com/',
     },
   ],
-  // certifications: [
-  //   {
-  //     name: 'Lorem ipsum',
-  //     body: 'Lorem ipsum dolor sit amet',
-  //     year: 'March 2022',
-  //     link: 'https://example.com',
-  //   },
-  // ],
+  certifications: [
+    {
+      name: 'React (Basics) By HackerRank',
+      body: 'React (Basic) It covers topics like Basic Routing, Rendering Elements,State Management (Internal Component State), Handling Events, ES6 and JavaScript and Form Validation.',
+      year: 'September 2024',
+      link: 'https://www.hackerrank.com/certificates/iframe/ee729429bf45',
+    },
+  ],
   educations: [
     {
       institution: 'Dr. Sivanthi Aditanar College Of Engineering',
