@@ -106,7 +106,7 @@ const CONFIG = {
       company: 'Tessolve',
       position: 'AI/ML Intern',
       from: 'July 2024',
-      to: 'Present',
+      to: 'December 2024',
       companyLink: 'https://www.tessolve.com/',
     },
   ],
