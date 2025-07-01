@@ -65,7 +65,7 @@ const CONFIG = {
     instagram: 'jeromel_pushparaj',
     reddit: '',
     threads: '',
-    youtube: 'JPT VLOg`s', // example: 'pewdiepie'
+    youtube: 'jeromelpushparaj', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
